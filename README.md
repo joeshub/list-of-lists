@@ -1,6 +1,6 @@
 # list-of-lists for web developers
 
-# Frontend Code Lists
+## Frontend Code Lists
 - https://github.com/sorrycc/awesome-javascript - JavaScript libraries
 - https://github.com/jbmoelker/progressive-enhancement-resources - Progressive Enhancement
 
