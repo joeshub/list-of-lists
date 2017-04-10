@@ -1,5 +1,4 @@
-# list-of-lists
-This is a list of awesome lists on Github
+# list-of-lists for web developers
 
 # Frontend Code Lists
 - https://github.com/sorrycc/awesome-javascript - JavaScript libraries
